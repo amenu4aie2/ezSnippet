@@ -20,12 +20,12 @@ const Cover: FC<CoverProps> = ({}) => {
                             target="_blank"
                             href="https://instagram.com/ezSnippet"
                         >
-                            <Button variant="primary" sizes={'small'}>
+                            {/* <Button variant="primary" sizes={'small'}>
                                 <Instagram />
                                 <span className="hidden md:block">
-                                    Follow me on Instagram
+                                    
                                 </span>
-                            </Button>
+                            </Button> */}
                         </Link>
                     </div>
                 </div>
